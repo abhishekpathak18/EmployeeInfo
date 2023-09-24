@@ -1,0 +1,67 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    background: lightgreen;
+    text-align: center;
+    color: black;
+}
+.userinfo{
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+.userinfo textarea{
+    display: block;
+    margin: 12px auto;
+}
+.userinfo input{
+    padding: 20px;
+    border-radius: 12px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.userinfo button{
+    padding: 20px;
+    width: 20%;
+    border-radius: 12px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    background: antiquewhite;
+    cursor: pointer;
+    display: block;
+    margin: 12px auto;
+}
+.box{
+    border: 2px solid black;
+    display: inline-block;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.btn{
+    border-radius: 12px;
+    padding: 15px;
+    margin: 50px 0px;
+    cursor: pointer;
+    width: 100px;
+    font-size: 20px;
+}
+
+
+.InfoBox button{
+    display: block;
+    margin-top: 40px;
+}
+.notes{
+    border-radius: 12px;
+    outline: none;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
